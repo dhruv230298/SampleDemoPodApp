@@ -1,0 +1,35 @@
+PODS:
+  - DropDown (2.3.13)
+  - SampleFrameworkLibrary (1.0.0)
+  - SVProgressHUD (2.3.1):
+    - SVProgressHUD/Core (= 2.3.1)
+  - SVProgressHUD/Core (2.3.1)
+
+DEPENDENCIES:
+  - DropDown
+  - SampleFrameworkLibrary (from `https://github.com/dhruv230298/SampleDemoApp.git`, branch `main`)
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - DropDown
+    - SVProgressHUD
+
+EXTERNAL SOURCES:
+  SampleFrameworkLibrary:
+    :branch: main
+    :git: https://github.com/dhruv230298/SampleDemoApp.git
+
+CHECKOUT OPTIONS:
+  SampleFrameworkLibrary:
+    :commit: 5466c7dae809b5c8ee9279d9e2012da6f6ae1f47
+    :git: https://github.com/dhruv230298/SampleDemoApp.git
+
+SPEC CHECKSUMS:
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  SampleFrameworkLibrary: 59c6a0629dd12380b80c6a9b321d6267511a8d80
+  SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
+
+PODFILE CHECKSUM: 0dde951dbf116e2caf9a996b922f1a6c3f416387
+
+COCOAPODS: 1.15.2

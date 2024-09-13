@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-SampleDemoPodApp/Pods-SampleDemoPodApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/DropDown/DropDown.framework
+${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/SampleFrameworkLibrary/SampleFrameworkLibrary.framework/SampleFrameworkLibrary
